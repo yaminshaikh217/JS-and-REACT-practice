@@ -27,7 +27,7 @@
 
 // What is truthy and falsy values in Javascript?
 
-//There are 5 falsy value  in JS
+//There are 6 falsy value  in JS
 // i.e  0 , "" , undefined, null, NaN ,false
 
 
@@ -114,8 +114,8 @@
 
 // for(initialize ; conditon ; increment/decrement)
 
-// for ( i = 0; i <100; i++) {
-//         console.log(i);    
+// for (let i = 0; i < 100; i++) {
+//     console.log(i);
 // }
 
 // 😀6: challenge Time 🏁
@@ -271,8 +271,8 @@
 // }
 // for in loop gives only index of each Element
 
-// for ( let elements of cars){
-//     console.log(elements);
+// for (let elements of cars) {
+//     console.log(elements);h
 // }
 // for of loop print every element of the array
 
@@ -523,7 +523,7 @@
 
 // const months = ['oct', 'march', 'April', 'june', 'july'];
 
-// let sol1 = months.splice(months.length, 0, "Dec","Dec2")
+// let sol1 = months.splice(months.length  , 0 , "Dec")
 // console.log(months);
 // console.log(sol1);
 

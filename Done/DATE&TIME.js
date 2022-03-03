@@ -17,11 +17,10 @@
 
 // new Date() 🙋‍♂️
 
-// new Date() its called a constructor
+// new Date() its called a constructorw
 
 // let date = new Date()    // 2021-09-09T05:33:38.373Z  => in terminal
 // let date1 = Date()      //Thu Sep 09 2021 11:03:38
-
 // console.log(new Date().toLocaleString());   //   9/9/2021, 11:06:03 am
 // console.log(new Date().toString());        //  Thu Sep 09 2021 11:07:05 GMT+0530  
 

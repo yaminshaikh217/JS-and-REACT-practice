@@ -1,7 +1,5 @@
 // Section 10👉 Document Object model in JavaScript
 
-const { text } = require("node:stream/consumers")
-
 
 // 1️⃣ Window is the main container or we can say the  global Object and any operations related to entire  browser window can be a part of window object. 
 

@@ -110,7 +110,7 @@
 
 // NaN Practice 🤯
 
-  
+
 
 // NaN === NaN;        
 // Number.NaN === NaN; 
@@ -134,7 +134,7 @@
 
 // console.log(5+20);
 
-  
+
 // 1️⃣Assignment operators
 // An assignment operator assigns a value to its left operand based on the value of its right operand. 
 // The simple assignment operator is equal (=)
@@ -369,8 +369,8 @@
 // ************************************************************
 
 
-/**** Section 6👉 Control Statement - 
- * 
+/**** Section 6👉 Control Statement -
+ *
  * 1️⃣If...Else */
 // The if statement executes a statement if a specified condition is truthy. 
 // If the condition is falsy, another statement can be executed.
@@ -778,12 +778,12 @@
   // let myFName = myBioData[0];
   // let myLName = myBioData[1];
   // let myAge = myBioData[2];
-  
+
 // let [myFName,myAge, myLName] = myBioData;
 // console.log(myAge);
 
   // we can add values too 
-  
+
   // let [myFName,myLName,myAge, myDegree="MCS"] = myBioData;
   // console.log(myDegree);
 
@@ -2041,7 +2041,7 @@
 // 👉 window.document or just document is the main object 
 // of the potentially visible (or better yet: rendered) 
 // document object model/DOM.
-  
+
 
 // 2️⃣ Where in the DOM we need to refer the document, 
 // if we want to use the document object, methods or properties
@@ -2549,7 +2549,7 @@
 
 // const first= () => {
 //   let b = " How are you?"
- 
+
 //     const second = () => {
 //       let c = " Hii, I am fine thank you🙏";
 //       console.log(a+b+c);
@@ -2617,12 +2617,7 @@
 
 // sum(5)(3)(8);
 
-// // **********************************************************************
 
-// // 👉 // 🤩 SUBSCRIBE TO THAPA TECHNICAL YOUTUBE CHANNEL 🤩
-//  👉 // 🤩  https://www.youtube.com/channel/UCwfaAHy4zQUb2APNOGXUCCA
-
-// // **********************************************************************
 
 
 

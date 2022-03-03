@@ -1,0 +1,1 @@
+// Use   useContext(second) hook to pass data using contextApi in nested components without using props. 

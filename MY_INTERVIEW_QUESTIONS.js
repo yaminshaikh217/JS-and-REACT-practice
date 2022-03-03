@@ -14,7 +14,8 @@
 // console.log(sum);
 
 // 5. The parseInt() function parses a string and returns an integer.
-// parseInt ("4F", 16);
+// console.log(parseInt("4F", 16));
+
 
 
 // 6.What is the function of the delete operator?
@@ -346,6 +347,13 @@
 // NaN > 2 // false
 // NaN === 2 // false
 
+
+
+
+
+// HOW TO REMOVE WHITE SPACES IN ARRAY
+// let arr = ['fdfd', 'ddew']
+// arr.map(str => str.replace(/\s/g, ''));
 
 
 
